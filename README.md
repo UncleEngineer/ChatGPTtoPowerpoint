@@ -52,3 +52,5 @@ jsondata = {
 }
 
 Step 4: ได้โค้ดจากการตอบของ AI นำไปวางใน google colab แล้วรัน จากนั้น web browser จะดาวโหลดไฟล์ pptx ให้อัตโนมัติ
+
+Source Code: https://colab.research.google.com/drive/1f5JK6TWbdeNhaK5DLE-Mq4HcPV6d0Pm6?usp=sharing
