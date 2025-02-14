@@ -79,3 +79,4 @@
 
 ### ดูคลิปสอนเพิ่มเติมทางนี้
 Youtube: (https://youtube.com/live/CLPKhhK3f-I?feature=share)
+ตัวอย่างโค้ด Colab: (https://colab.research.google.com/drive/1f5JK6TWbdeNhaK5DLE-Mq4HcPV6d0Pm6?usp=sharing)
